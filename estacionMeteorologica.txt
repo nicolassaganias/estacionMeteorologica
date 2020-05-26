@@ -2,3 +2,12 @@ Presento el programa y el conexionado para que luego cada unx pueda montarlo a s
 --------------
 I present the program and the connection so that each one can mount it in their own way. In this example I feed the entire system with 4 rechargeable AA batteries. Maybe it's a bit much, but it's what I had at home. With a 3.7v battery it should work well or obviously, connected to a cell phone charger or computer charger.
 --------------
+
+Librerías utilizadas / Libraries needed:
+
+TFT.h
+SPI.h
+Adafruit_Sensor.h
+Adafruit_BMP085_U.h
+Adafruit_BMP085.h
+DHT.h
